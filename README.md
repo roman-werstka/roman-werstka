@@ -1,109 +1,87 @@
+<div align="center">
+
 # Hi, I'm Roman 👋
 
-I'm a Junior Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.
+### Frontend Developer · Building interfaces & real-world projects
 
-## About Me
+I build responsive, user-friendly web interfaces and turn ideas into working products. My background combines frontend development, commercial projects, IT infrastructure, and open-source contributions.
 
-- 💻 I work with HTML, CSS and JavaScript
-- 📱 I build responsive and adaptive layouts
-- 🧩 I use BEM methodology
-- 🌱 Currently learning React and improving my JavaScript skills
-- 🔧 I also have experience in IT support, system administration and networking
-- 🚀 I gain practical experience through personal projects and Open Source contributions
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://roman-werstka.ru/)
+[![GitHub](https://img.shields.io/badge/GitHub-roman--werstka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roman-werstka)
 
-## Tech Stack
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
+---
 
-**Also working with:** BEM • Responsive Web Design • Flexbox • CSS Grid
+## 🛠 Tech Stack
 
-## Featured Projects
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=white)
 
-### Lionic
+**Also working with:** BEM · Responsive Web Design · Flexbox · CSS Grid
 
-Responsive website layout built with HTML and CSS.
+**Currently learning:** React · Advanced JavaScript · Working with APIs
 
-[View repository](https://github.com/roman-werstka/Lionic)
+---
 
-### Lagoona
+## 🚀 Featured Projects
 
-Multi-section website layout with semantic HTML, BEM methodology and responsive styling.
+### 🏨 Fish Point — Landing Page
 
-[View repository](https://github.com/roman-werstka/lagoona)
+Commercial hospitality website with responsive layouts, multimedia content, downloadable presentations, and contact cards.
 
-### Flex Cards
+[View repository](https://github.com/roman-werstka/fish-point-best-russia)
 
-Small frontend project created to practice Flexbox, card layouts and interface styling.
+### 🤖 Fish Point — Telegram Guest Bot
 
-[View repository](https://github.com/roman-werstka/Flex-cards)
+Multilingual guest assistant with AI-powered answers, resort information, and administrator notifications. Built with Python and the Telegram Bot API.
 
-## Open Source Contributions
+[View repository](https://github.com/roman-werstka/hotel_bot)
 
-### 8bitUHM/acmmanoa-site
+### 💻 Personal Portfolio
 
-Real-world frontend fixes contributed to an existing Open Source project.
+Responsive Bento-grid portfolio showcasing selected projects and frontend work.
 
-#### PR #69 — Fix long URL overflow in prose content
+[Live website](https://roman-werstka.ru/) · [View repository](https://github.com/roman-werstka/roman-website)
 
-- Found and reproduced the issue
-- Fixed long unbroken URL overflow with CSS
-- Tested the fix on desktop and mobile
-- Verified normal prose content remained unaffected
-- Submitted the pull request and passed review
-- Merged into the main project
+### 🛴 Yandex Scooters
 
-[View PR #69](https://github.com/8bitUHM/acmmanoa-site/pull/69)
+Responsive landing page completed as a hiring assignment for a frontend layout position at Yandex. An independent portfolio project, not an official Yandex website.
 
-#### PR #72 — Fix calendar grid stretching with long titles
+[View repository](https://github.com/roman-werstka/yandex-scooters)
 
-- Reproduced a CSS Grid layout issue caused by long event titles
-- Changed the grid to preserve equal-width columns
-- Preserved ellipsis behavior for long labels
-- Tested on desktop and at a 375px viewport
-- Verified event links still worked correctly
-- Submitted the pull request and passed review
-- Merged into the main project
+---
 
-[View PR #72](https://github.com/8bitUHM/acmmanoa-site/pull/72)
+## 🌍 Open Source Contributions
 
-## Currently Learning
+Contributions to [8bitUHM/acmmanoa-site](https://github.com/8bitUHM/acmmanoa-site):
 
-- JavaScript
-- React
-- Working with APIs
-- Git and GitHub collaboration
-- Open Source contribution workflow
+- [PR #69](https://github.com/8bitUHM/acmmanoa-site/pull/69) — Fixed long URL overflow in prose content.
+- [PR #72](https://github.com/8bitUHM/acmmanoa-site/pull/72) — Fixed CSS Grid stretching caused by long calendar titles.
 
-## Goals
+Both pull requests were merged.
 
-My current goals are to:
+---
 
-- improve my JavaScript skills
-- gain more real-world frontend development experience
-- contribute to Open Source projects
-- build stronger frontend projects
-- continue developing my portfolio
+## 📊 GitHub Activity
 
-## Contact
+<div align="center">
 
-GitHub: [@roman-werstka](https://github.com/roman-werstka)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roman-werstka&show_icons=true&hide_border=true&theme=github_dark)
 
+</div>
 
-<!--
-**roman-werstka/roman-werstka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📬 Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [Portfolio](https://roman-werstka.ru/) · 💻 [GitHub](https://github.com/roman-werstka)
+
+<div align="center">
+
+*Always learning, building, and improving.*
+
+</div>
